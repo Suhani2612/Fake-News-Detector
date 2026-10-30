@@ -1,0 +1,30 @@
+{
+  "results": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9779,
+      "Precision": 0.9737,
+      "Recall": 0.9858,
+      "F1": 0.9797,
+      "Train time (s)": 0.34
+    },
+    {
+      "Model": "Naive Bayes",
+      "Accuracy": 0.9373,
+      "Precision": 0.933,
+      "Recall": 0.9528,
+      "F1": 0.9428,
+      "Train time (s)": 0.04
+    },
+    {
+      "Model": "Linear SVM",
+      "Accuracy": 0.9858,
+      "Precision": 0.9831,
+      "Recall": 0.9908,
+      "F1": 0.987,
+      "Train time (s)": 0.38
+    }
+  ],
+  "n_train": 31284,
+  "n_test": 7821
+}
